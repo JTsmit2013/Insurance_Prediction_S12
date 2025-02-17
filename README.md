@@ -62,3 +62,6 @@ The Sure Tomorrow insurance company aims to leverage machine learning to enhance
 - Machine learning was successfully applied to improve predictions for Sure Tomorrow insurance.
 - The feasibility of customer similarity detection and benefit prediction was demonstrated.
 - Data security measures were implemented without compromising model performance.
+
+
+***Need to add more concrete findings from the notebook.***
