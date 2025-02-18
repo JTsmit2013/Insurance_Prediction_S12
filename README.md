@@ -65,3 +65,4 @@ The Sure Tomorrow insurance company aims to leverage machine learning to enhance
 
 
 ***Need to add more concrete findings from the notebook.***
+***Need to download catboost to my conda library, attempted to do that in the notebook itself and it didn't work.***
